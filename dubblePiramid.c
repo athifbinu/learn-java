@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-    int size=3;
+    int size=5;
     int i,j,k;
 
     for(i=size;i>=-size;i--)
