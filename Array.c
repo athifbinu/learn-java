@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int main(void) {
 
 	int limit,i,values1[100],values2[100],temp;
