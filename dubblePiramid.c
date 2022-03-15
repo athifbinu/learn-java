@@ -2,8 +2,10 @@
 #include <stdlib.h>
 
 int main(){
-    int size=5;
+    int size;
     int i,j,k;
+    printf("Enter a size");
+    scanf("%d",&size);
 
     for(i=size;i>=-size;i--)
     {
